@@ -1,6 +1,12 @@
 <img src="banner for github.png">
+<hr>
+<div align="center">
+<a href="https://www.linkedin.com/in/ammar-khatri-458544211/" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</a>
+</div>
+<hr>
 
----
 
 #### 🙋‍♂️ About Me :
 I am a 4th year student at Presidency University majoring in AI. I am driven by a profound passion with crafting AI-powered solutions and have displayed valuable experience from my past AI Developer & SWE internships. My ability to rapidly acquire new skills and knowledge allows me to stay responsive to emerging AI technologies and evolving market dynamics.
