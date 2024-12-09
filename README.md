@@ -19,7 +19,7 @@ I am a 4th year student at Presidency University majoring in AI. I am driven by 
 
 ---
 
-#### 🛠️: Languages and Tools :
+#### 🛠️ Languages and Tools :
 ##### 💻 Programming : 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
