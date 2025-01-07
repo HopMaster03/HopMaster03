@@ -20,9 +20,11 @@ I am a 4th year student at Presidency University majoring in AI. I am driven by 
     <a href="https://www.coursera.org/account/accomplishments/specialization/REM7ZSFZCJAP" target="_blank">
         <img src="https://img.shields.io/badge/AI/ML%20Certified%20by%20Stanford-000000?style=flat&logo=Coursera&logoColor=white&labelColor=000080" alt="Stanford AI/ML Certification">
     </a>
+    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c7ec976f-3634-4241-a973-b4a44b7c65be.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Figma%20UI%20UX%20Design%20Essentials-000000?style=flat&logo=Udemy&logoColor=white&labelColor=A435F0" alt="Figma UI UX Design Essentials">
+    </a>
    </div>
 </div>
-
 ---
 
 #### 🛠️ Languages and Tools :
@@ -54,4 +56,5 @@ I am a 4th year student at Presidency University majoring in AI. I am driven by 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
